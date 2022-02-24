@@ -112,12 +112,14 @@ main h2 {
 
 .benefit-lbc {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; 
+    /* set aside font color to white */
 }
 
 .benefit-lbc h3 {
     margin-bottom: 10px;
     text-align: center;
+    /* aligns h3 aside headers */
 }
 
 .benefit-lbc img {
@@ -134,5 +136,5 @@ footer {
 }
 
 footer h2 {
-    font-size: 20px;
+    font-size: 20px; /* set footer font size */
 }
