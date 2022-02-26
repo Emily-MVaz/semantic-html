@@ -33,4 +33,6 @@ Refactor the generic HTML code provided into semantic HTML code while also tryin
 
 ## Contributions
 
+I used information and tutorials from [W3schools](https://www.w3schools.com/html/html5_semantic_elements.asp) regarding semantic elements.
 
+I also recieved help from Eugene, Gustavo and Kelly helping me look over my code.
