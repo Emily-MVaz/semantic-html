@@ -1,25 +1,24 @@
 # Horiseon Semantic Code Refactorning
 
 ## Objectives
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
 
+Refactor the generic HTML code provided into semantic HTML code while also trying to achieve the following objectives:
+- ensuring the site has a logical and understandable structure
+- ensuring the website meets accesibility standards 
+- ensuring everything on the site functions properly
+- conosolidating the CSS selectors and properties for increased efficiency
+
+## Main Changes
+
+- changing website title from "website" to "
 ## Screenshot
 
+![Horiseon webpage screenshot](./assets/images/semantic-screenshot.png)
 
 ## Link
 
-
-https://emily-mvaz.github.io/semantic-html/
-<!-- link number two! -->
+[Link to finished Horiseon Webpage](https://emily-mvaz.github.io/semantic-html/)
 
 ## Contributions
+
+
