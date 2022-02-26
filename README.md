@@ -25,7 +25,7 @@ Refactor the generic HTML code provided into semantic HTML code while also tryin
 
 ## Screenshot
 
-![Horiseon webpage screenshot](./assets/images/semantic-screenshot.png)
+![Horiseon webpage screenshot](./assets/images/semantic-screengrab.png)
 
 ## Link
 
